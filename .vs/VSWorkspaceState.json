@@ -3,10 +3,14 @@
     "",
     "\\app",
     "\\app\\controllers",
+    "\\app\\helpers",
     "\\app\\views\\layouts",
+    "\\app\\views\\static_pages",
     "\\config",
-    "\\db"
+    "\\db",
+    "\\test",
+    "\\test\\controllers"
   ],
-  "SelectedNode": "\\app\\models",
+  "SelectedNode": "\\app\\views",
   "PreviewInSolutionExplorer": false
 }
